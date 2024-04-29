@@ -53,6 +53,9 @@ ul li a {
     min-height: 67vh;
     box-shadow: 0 0 10px var(--shine-color);
     border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer{
